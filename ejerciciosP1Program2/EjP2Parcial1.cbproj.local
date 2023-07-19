@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/07/18 20:14:15.156,=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/18 20:14:15.243,=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/07/18 22:24:20.867,C:\Users\jalej\Documentos\RAD2\ejerciciosP1Program2\EjP2Parcial1PCH1.h=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/18 22:24:20.899,C:\Users\jalej\Documentos\RAD2\ejerciciosP1Program2\Unit1.dfm=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/07/18 22:24:20.899,C:\Users\jalej\Documentos\RAD2\ejerciciosP1Program2\Unit1.h=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/07/18 22:24:20.899,C:\Users\jalej\Documentos\RAD2\ejerciciosP1Program2\Unit1.cpp=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/07/18 22:24:20.914,C:\Users\jalej\Documentos\RAD2\ejerciciosP1Program2\EjP2Parcial1.cbproj=C:\Users\jalej\Documentos\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2023/07/18 22:24:30.205,C:\Users\jalej\Documentos\RAD2\ejerciciosP1Program2\UEjercicios.dfm=C:\Users\jalej\Documentos\RAD2\ejerciciosP1Program2\Unit1.dfm</Transaction>
+    <Transaction>2023/07/18 22:24:30.205,C:\Users\jalej\Documentos\RAD2\ejerciciosP1Program2\UEjercicios.cpp=C:\Users\jalej\Documentos\RAD2\ejerciciosP1Program2\Unit1.cpp</Transaction>
+    <Transaction>2023/07/18 22:24:30.205,C:\Users\jalej\Documentos\RAD2\ejerciciosP1Program2\UEjercicios.h=C:\Users\jalej\Documentos\RAD2\ejerciciosP1Program2\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
